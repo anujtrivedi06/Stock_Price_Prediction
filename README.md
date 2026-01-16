@@ -1,5 +1,3 @@
----
-
 # 📈 Project Kassandra
 
 **Universal Sentiment Engine for Stock Price Prediction**
