@@ -1,4 +1,4 @@
-# 📈 Project Kassandra
+# 📈 Project StockSenseAI
 
 **Universal Sentiment Engine for Stock Price Prediction**
 
@@ -6,7 +6,7 @@
 
 ## 🧠 Overview
 
-**Project Kassandra** is an end-to-end, leakage-safe machine learning system that predicts the **next trading day’s closing price** of a stock by combining:
+**Project StockSenseAI** is an end-to-end, leakage-safe machine learning system that predicts the **next trading day’s closing price** of a stock by combining:
 
 * Historical market data
 * Technical indicators
@@ -295,7 +295,7 @@ streamlit run dashboard/app.py
 
 ## 🏁 Final Notes
 
-Project Kassandra was designed with:
+Project StockSenseAI was designed with:
 
 * **Correct ML principles**
 * **Strict temporal discipline**
